@@ -1,0 +1,11 @@
+{
+	"name": "uTorrent Stream",
+	"website": "https://utorrentstream.com",
+	"repository": "https://utorrentstream.com",
+	"env": {
+		"REFER": {
+			"description": "Optionally doesnot requires (defaults to 'uTorrent Stream')",
+			"required": false
+		}
+	}
+}
